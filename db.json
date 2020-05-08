@@ -1,0 +1,18 @@
+{
+"users": [
+	{ "id": 1, "name": "Антон", "surname": "Є", "address": "Киев", "email": "anton@ukr.net", "role": "Admin"},
+	{ "id": 2, "name": "Антон", "surname": "Є", "address": "Киев", "email": "anton@ukr.net", "role": "User"},
+	{ "id": 3, "name": "Маша", "surname": "Мурлика", "address": "Одесса", "email": "masha@ukr.net", "role": "User"}
+],
+"cats": [
+	{"id": 1, "name": "Мурчик", "breed": "Британська короткошерстна", "age": 10, "lear": "Двоколірне", "description": "Яків, моб. тел. 063-454-78-58", "numberAviary": 1},
+	{"id": 2, "name": "Арчик", "breed": "Анатолійська", "age": 12, "lear": "Кремове", "description": "Хазяйко без телефону", "numberAviary": 2},
+	{"id": 3, "name": "Пушок", "breed": "Ангорська", "age": 11, "lear": "Чорне", "description": "Хазяйко без телефону", "numberAviary": 3},
+	{"id": 4, "name": "Джесі", "breed": "Перські кішки", "age": 9, "lear": "Темно-сіре", "description": "Хазяйко без телефону", "numberAviary": 4},
+	{"id": 5, "name": "Марфа", "breed": "Бразильська короткошерстна", "age": 14, "lear": "Двоколірне", "description": "Хазяйко без телефону", "numberAviary": 5},
+	{"id": 6, "name": "Барсік", "breed": "Балійська", "age": 9, "lear": "Черепахове", "description": "Хазяйко без телефону", "numberAviary": 6},
+	{"id": 7, "name": "Штапік", "breed": "Брембл", "age": 8, "lear": "Темно-сіре", "description": "Хазяйко без телефону", "numberAviary": 7},
+	{"id": 8, "name": "Мася", "breed": "Бенгальська", "age": 8, "lear": "Сріблясте", "description": "Хазяйко без телефону", "numberAviary": 8}
+],
+"dogs": []
+}
