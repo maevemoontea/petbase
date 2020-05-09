@@ -14,5 +14,19 @@
 	{"id": 7, "name": "Штапік", "breed": "Брембл", "age": 8, "lear": "Темно-сіре", "description": "Хазяйко без телефону", "numberAviary": 7},
 	{"id": 8, "name": "Мася", "breed": "Бенгальська", "age": 8, "lear": "Сріблясте", "description": "Хазяйко без телефону", "numberAviary": 8}
 ],
-"dogs": []
+"DecorativeDogs": [
+	{"id": 1, "function": "Декоративна", "description": "Олешко Людмила Василівна", "breed": "Бігль", "name": "Барс", "age": 6, "lear": "Рябе забарвлення", "numberAviary": 2},
+	{"id": 2, "function": "Декоративна", "description": "044-78-56-999, Маша", "breed": "Пудель", "name": "Слайкі", "age": 4, "lear": "Чорне забарвлення", "numberAviary": 11},
+	{"id": 3, "function": "Декоративна", "description": "Ігор Володимирович, тел. 098-466-89-52", "breed": "Померанський Шпіц", "name": "Тайсон", "age": 7, "lear": "Руде забарвлення", "numberAviary": 10}
+],
+"HuntingDogs": [
+	{"id": 1, "function": "Мисливська", "typeOfActivity": "Полювання", "description": "Мисливець Вася, моб. тел. 058-933-45-16", "breed": "Французький бульдог", "name": "Лакі", "age": 8, "lear": "Тигрове забарвлення", "numberAviary": 1},
+	{"id": 2, "function": "Мисливська", "typeOfActivity": "Полювання", "description": "Людмила Миколаївна, тел. 044-216-04-84", "breed": "Лабрадор ретрівер", "name": "Арчі", "age": 10, "lear": "Золотисто-рудий окрас", "numberAviary": 3},
+	{"id": 3, "function": "Мисливська", "typeOfActivity": "Полювання", "description": "Олег Борисович Кривоніс, моб. тел. 050-044-09-79", "breed": "Тібетський мастіф", "name": "Барон", "age": 12, "lear": "Чалий", "numberAviary": 4}
+],
+"SportServiceDogs": [
+	{"id": 1, "function": "Спортивно-службова", "typeOfActivity": "Охорона", "description": "Валерій Михайлович Рупор", "breed": "Німецька вівчарка", "name": "Джек", "age": 13, "lear": "Чорно підпалий", "numberAviary": 6},
+	{"id": 2, "function": "Спортивно-службова", "typeOfActivity": "Поводир", "description": "Марина Василівна Кочур, 066-158-78-95", "breed": "Золотистий ретрівер", "name": "Джульбарс", "age": 14, "lear": "Золотисто-рудий окрас", "numberAviary": 7},
+	{"id": 3, "function": "Спортивно-службова", "typeOfActivity": "Пошукова", "description": "Довбач Валерій Олексійович", "breed": "Французький бульдог", "name": "Занджир", "age": 7, "lear": "Суцільне забарвлення", "numberAviary": 8}
+]
 }
